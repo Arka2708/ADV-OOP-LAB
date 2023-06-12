@@ -1,0 +1,11 @@
+java
+C++
+python
+javascript
+networking
+dbms
+oops
+operating system
+cyber-security
+2708
+2023
